@@ -1,0 +1,32 @@
+/* -------------------------------------------------------------------
+ ;* AdminESP - ElectronicIOT 2023
+ ;* Sitio WEB: https://electroniciot.com
+ ;* Correo: admin@electroniciot.com
+ ;* Cel_WSP: +591 71243395
+ ;* Plataforma: ESP32
+ ;* Framework:  Arduino - Platformio - VSC
+ ;* Proyecto: Panel Administrativo para el ESP32 con Vue.js v3 y TypeScript
+ ;* Nombre: VUE32 Admin Tool v2
+ ;* Autor: Ing. Yamir Hidalgo Peña
+ ;* -------------------------------------------------------------------
+;*/
+
+## Comando de Instalación
+- ESP32 de 4MB de memoria Flash
+python esptool.py -b 921600 --port COM7 write_flash --flash_freq 80m 0x00010000 firmware.bin
+
+## Acceso a la RED AP
+SSID AP Ejemplo  : ESP328B1C72100C4D
+Password SSID AP : adminserver32
+
+## Acceder a la WEB para configurar
+IP  : 192.168.4.1
+mDNS: (ver el video)
+
+## Usuario y Contraseña WEB
+User:     admin
+Password: admin
+
+## A disfrutar del VUE32 WebSettings
+
+
