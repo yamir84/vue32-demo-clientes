@@ -22,7 +22,7 @@ https://github.com/yamir84/vue32-demo-clientes
 * User:     admin
 * Password: admin
 
-## A disfrutar del ESP32 WebSettings
+## A disfrutar del VUE32 Admin Tool v2
 
 ## Video en YouTube
 https://youtu.be/5WETHuWSTtc
